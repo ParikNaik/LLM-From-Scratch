@@ -6,4 +6,6 @@ llm_tokenizer.ipynb: standard tokenizer
 
 llm_BPE.ipynb: Byte Pair Encoding (just to understand the tokenization that GPT uses and how it differes from standard tokenizer)
 
+-> Input-Taget data pairs demonstration
 
+token_embeddings.ipynb: use bert's pretrained token embedding
