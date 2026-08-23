@@ -1,11 +1,11 @@
-llm_tokenizer.ipynb: standard tokenizer
+LLMTKN: Virtual environment with necessary imports
 
--> SimpleTokenizer: tokenizer compliant with the-verdict.txt (no unknowns)
+Data Preprocessing: First stage of building an LLM is the data and processing it for a model to work with
 
--> SimpleTokenizerV2: tokenizer that deals with unknowns and end of text (for multiple text data)
+    -> llm_BPE: Byte Pair Encoding, a type of tokenization in which words are broken down into subwords and those are used as tokens
+    -> llm_positional_embedding: vector embedding for token IDs with addition of awareness of position for context
+    -> llm_tokenizer: initial tokenization (words to tokens to token IDs)
+    -> token_embedding: embedding of tokens
+    -> the-verdict: text file for data
 
-llm_BPE.ipynb: Byte Pair Encoding (just to understand the tokenization that GPT uses and how it differes from standard tokenizer)
-
--> Input-Taget data pairs demonstration
-
-token_embeddings.ipynb: use bert's pretrained token embedding
+Attention models: The evolution of attention mechanism
