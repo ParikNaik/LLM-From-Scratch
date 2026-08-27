@@ -9,3 +9,6 @@ Data Preprocessing: First stage of building an LLM is the data and processing it
     -> the-verdict: text file for data
 
 Attention models: The evolution of attention mechanism
+
+    -> simple_attention: usage of raw token embeddings with no trainable params
+    -> self_attention_tw: simple attention + 3 learned weight matrices: query, key, value
