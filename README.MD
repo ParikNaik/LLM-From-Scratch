@@ -13,3 +13,4 @@ Attention models: The evolution of attention mechanism
     -> simple_attention: usage of raw token embeddings with no trainable params
     -> self_attention_tw: simple attention + 3 learned weight matrices: query, key, value
     -> causal_self_attention: usage of causal mask and dropout
+    -> multi-head
