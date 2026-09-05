@@ -1,5 +1,7 @@
 LLMTKN: Virtual environment with necessary imports
 
+Runs on python 3.11.9
+
 Data Preprocessing: First stage of building an LLM is the data and processing it for a model to work with
 
     -> llm_BPE: Byte Pair Encoding, a type of tokenization in which words are broken down into subwords and those are used as tokens
