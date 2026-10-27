@@ -19,3 +19,5 @@ Attention models: The evolution of attention mechanism
     -> multi-head-weights: multi-head with added weights
 
 Transformer architecture: complete neural network architecture
+
+    ->
