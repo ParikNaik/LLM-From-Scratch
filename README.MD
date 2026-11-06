@@ -20,4 +20,4 @@ Attention models: The evolution of attention mechanism
 
 GPT Architecture: Process
 
-    ->
+    -> 
