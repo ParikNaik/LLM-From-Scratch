@@ -6,11 +6,11 @@
 #### Attention is all you need by Ashish Vaswani
 #### Raj Abhijit Dandekar from Vizuara
 
-AI is at the forefront of modern technology, driving innovation across many industries. While companies and consumers use AI products from OpenAI and Anthropic, it's important to understand how these systems work and why they're built the way they are. Large Language Models are the foundation of many of today's AI products, and that's what I wanted to learn. Using an article, a book, and a creator, I built this repo to show the individual parts of an LLM and to understand the model beyond simply using it
+AI is at the forefront of modern technology, driving innovation across many industries. While companies and consumers use AI products from OpenAI and Anthropic, it's important to understand how these systems work and why they're built the way they are. Large Language Models are the foundation of many of today's AI products, and that's what I wanted to learn. Using an article, a book, and a creator, I built this repo to show the individual parts of an LLM and to understand the model beyond simply using it.
 
-LLMTKN: Virtual environment with necessary imports
+Raschka divides LLMs into 3 stages:
 
-Runs on python 3.11.9
+#### Stage 1: Implementing LLM architecture and data preperation
 
 Data Preprocessing: First stage of building an LLM is the data and processing it for a model to work with
 
@@ -31,3 +31,15 @@ Attention models: The evolution of attention mechanism
 GPT Architecture: Process
 
     -> 
+
+
+
+#### Stage 2: Pretraining an LLM to create a foundation model
+#### Stage 3: Finetuning the foundation model 
+
+Environment:
+
+LLMTKN: Virtual environment with necessary imports
+
+Runs on python 3.11.9
+
