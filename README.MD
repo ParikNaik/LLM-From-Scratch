@@ -1,3 +1,13 @@
+# Large Language Model from Scratch
+
+## References: 
+
+#### Build a Large Language Model from Scratch by Sebastian Raschka
+#### Attention is all you need by Ashish Vaswani
+#### Raj Abhijit Dandekar from Vizuara
+
+AI is at the forefront of modern technology, driving innovation across many industries. While companies and consumers use AI products from OpenAI and Anthropic, it's important to understand how these systems work and why they're built the way they are. Large Language Models are the foundation of many of today's AI products, and that's what I wanted to learn. Using an article, a book, and a creator, I built this repo to show the individual parts of an LLM and to understand the model beyond simply using it
+
 LLMTKN: Virtual environment with necessary imports
 
 Runs on python 3.11.9
