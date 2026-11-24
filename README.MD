@@ -29,9 +29,7 @@ Attention models: The evolution of attention mechanism
 
 GPT Architecture: Process
 
-    -> 
-
-
+    -> GPT_Arch: Builds the DummyGPT model using GPT_Config as a paramter, building the class with layer norm and transformer blocks
 
 #### Stage 2: Pretraining an LLM to create a foundation model
 #### Stage 3: Finetuning the foundation model 
